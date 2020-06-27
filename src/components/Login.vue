@@ -9,7 +9,7 @@
                     <el-input prefix-icon="iconfont icon-user" v-model="LoginForm.username"></el-input>
                 </el-form-item>
                 <el-form-item prop="password">
-                    <el-input type="password" prefix-icon="iconfont icon-3702mima" v-model="LoginForm.password"></el-input>
+                    <el-input type="password" prefix-icon="iconfont icon-3702mima" v-model="LoginForm.password" show-password></el-input>
                 </el-form-item>
                 <el-form-item class="btns">
                     <el-button type="primary" @click="login">登录</el-button>
