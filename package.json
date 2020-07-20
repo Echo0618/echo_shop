@@ -13,6 +13,7 @@
     "element-ui": "^2.4.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
+    "vue-table-with-tree-grid": "^0.2.4",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
@@ -24,15 +25,28 @@
     "@vue/eslint-config-standard": "^5.1.2",
     "babel-eslint": "^10.1.0",
     "babel-plugin-component": "^1.1.1",
-    "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.20.2",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-standard": "^4.0.1",
     "eslint-plugin-vue": "^6.2.2",
     "less": "^3.11.3",
     "less-loader": "^6.1.2",
     "vue-cli-plugin-element": "^1.0.1",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "```\r npm install\r ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echo0618/echo_shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Echo0618/echo_shop/issues"
+  },
+  "homepage": "https://github.com/Echo0618/echo_shop#readme"
 }
